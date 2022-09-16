@@ -1,0 +1,8 @@
+.cabecalho__tema button {
+  align-self: flex-end;
+  background: #ecf4ff;
+  border-radius: 100px;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 16px;
+}

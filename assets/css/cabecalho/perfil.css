@@ -1,0 +1,23 @@
+.perfil {
+  display: flex;
+}
+
+.perfil__imagem {
+  border-radius: 460px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  max-height: 160px;
+}
+
+.perfil__titulo {
+  margin-left: 16px;
+}
+
+.titulo__nome {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.titulo__ocupacao {
+  font-size: 24px;
+  font-weight: 400;
+}

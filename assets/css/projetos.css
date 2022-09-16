@@ -1,0 +1,25 @@
+.projetos {
+  background: linear-gradient(30.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  padding: 2rem;
+}
+
+.projetos__titulo {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.projetos__projeto {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 48px;
+  list-style-type: none;
+}
+
+.projetos__projeto a {
+  color: #1c1c1c;
+}
