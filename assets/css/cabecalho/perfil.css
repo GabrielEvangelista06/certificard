@@ -21,3 +21,59 @@
   font-size: 24px;
   font-weight: 400;
 }
+
+@media screen and (min-width: 0) {
+  .perfil {
+    display: block;
+    width: auto;
+  }
+
+  .perfil__imagem {
+    margin-left: 0.5rem;
+  }
+
+  .perfil__titulo {
+    margin-left: 0.5rem;
+  }
+
+  .titulo__nome {
+    font-size: 32px;
+  }
+
+  .titulo__ocupacao {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .perfil {
+    display: flex;
+    width: auto;
+  }
+
+  .perfil__imagem {
+    margin-left: 0;
+  }
+
+  .titulo__nome {
+    font-size: 34px;
+  }
+
+  .titulo__ocupacao {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .perfil {
+    width: auto;
+  }
+
+  .titulo__nome {
+    font-size: 36px;
+  }
+
+  .titulo__ocupacao {
+    font-size: 24px;
+  }
+}

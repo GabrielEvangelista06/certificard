@@ -6,3 +6,25 @@
   font-weight: 400;
   padding: 8px 16px;
 }
+
+@media screen and (min-width: 0) {
+  .cabecalho__tema {
+    margin: 2rem 0 2rem 0.5rem;
+  }
+
+  .cabecalho__tema button {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .cabecalho__tema button {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cabecalho__tema button {
+    font-size: 22px;
+  }
+}

@@ -10,6 +10,13 @@ body {
   border-radius: 20px;
   box-shadow: 6px 6px 6px #0e1d2f;
   color: #1c1c1c;
-  margin: 64px;
-  padding: 64px;
+  margin: 4rem;
+  padding: 4rem;
+}
+
+@media screen and (min-width: 0) {
+  .container {
+    margin: 2.25rem;
+    width: auto;
+  }
 }
