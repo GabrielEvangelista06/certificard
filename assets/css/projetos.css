@@ -35,13 +35,13 @@
   }
 }
 
-@media screen and (min-width: 620px) {
+@media screen and (min-width: 400px) {
   .projetos__titulo {
-    font-size: 34px;
+    font-size: 32px;
   }
 
   .projetos__projeto {
-    font-size: 22px;
+    font-size: 19.49px;
   }
 }
 
