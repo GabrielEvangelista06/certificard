@@ -45,13 +45,16 @@
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 620px) {
   .perfil {
+    align-items: center;
     display: flex;
+    flex-direction: column;
     width: auto;
   }
 
   .perfil__imagem {
+    max-width: 160px;
     margin-left: 0;
   }
 
@@ -61,7 +64,11 @@
 
   .titulo__ocupacao {
     font-size: 22px;
+    margin-left: 3rem;
   }
+}
+
+@media screen and (min-width: 768px) {
 }
 
 @media screen and (min-width: 1024px) {
