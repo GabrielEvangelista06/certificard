@@ -8,9 +8,7 @@ Projeto criado para ser um mini portfólio pessoal.
 | :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)                 |
 | :rocket: URL          | https://gabrielevangelista06.github.io/certificard/ |
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-
-![](https://ibb.co/x5fLTGQ#vitrinedev)
+![](https://i.ibb.co/j4WfXGF/Captura-de-tela-2022-10-22-001538.png#vitrinedev)
 
 ## Detalhes do projeto
 
